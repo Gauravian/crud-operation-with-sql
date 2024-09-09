@@ -29,7 +29,7 @@ export const getstudents = async (req,res) => {
 
 };
 
-//// get by ig
+// get by your id
 
 export const getstudentById = async(req,res) =>{
     try {
